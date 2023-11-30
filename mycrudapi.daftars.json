@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65681083bf8ad281da66ed88"
+  },
+  "nama": "c",
+  "alamat": "d",
+  "nomor_telepon": "sd",
+  "jenis_kelamin": "pria",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656815d52557e06bc149dbe7"
+  },
+  "nama": "e",
+  "alamat": "r",
+  "nomor_telepon": "sdfs323",
+  "jenis_kelamin": "pria",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568270a80cb52186ed0b2df"
+  },
+  "nama": "coba",
+  "alamat": "apa",
+  "nomor_telepon": "43434",
+  "jenis_kelamin": "wanita",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568274a0fc25b6a42ad89ac"
+  },
+  "nama": "testing",
+  "alamat": "sdfsdf",
+  "nomor_telepon": "2323423",
+  "jenis_kelamin": "pria",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656827d4b7e147c041439294"
+  },
+  "nama": "coba 3",
+  "alamat": "sdfsdf",
+  "nomor_telepon": "sdfsdf",
+  "jenis_kelamin": "wanita",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65682ff38de3ebe7bb558ad5"
+  },
+  "nama": "coba 32323",
+  "alamat": "sdfsdf",
+  "nomor_telepon": "sdfsdf",
+  "jenis_kelamin": "Jenis Kelamin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65683905c43dcadf2ac4ce19"
+  },
+  "nama": "namaku",
+  "alamat": "lampung",
+  "nomor_telepon": "902873236263",
+  "jenis_kelamin": "pria",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568391d8200345dcaad623d"
+  },
+  "nama": "namaku2",
+  "alamat": "lampung",
+  "nomor_telepon": "902873236263",
+  "jenis_kelamin": "pria",
+  "__v": 0
+}]

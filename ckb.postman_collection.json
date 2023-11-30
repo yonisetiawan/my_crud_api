@@ -1,0 +1,77 @@
+{
+	"info": {
+		"_postman_id": "7bf3183e-0ed5-4e5a-aeda-9a01fd4ae32a",
+		"name": "ckb",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "1144452"
+	},
+	"item": [
+		{
+			"name": "http://localhost:4000/daftar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:4000/daftar"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:4000/daftar/delete",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "id",
+							"value": "6568274a0fc25b6a42ad89ac",
+							"type": "text"
+						}
+					]
+				},
+				"url": "http://localhost:4000/daftar/delete"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:4000/daftar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "email",
+							"value": "yonisetiawan1990@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "nama",
+							"value": "yoni",
+							"type": "text"
+						},
+						{
+							"key": "alamat",
+							"value": "lampung",
+							"type": "text"
+						},
+						{
+							"key": "nomor_telepon",
+							"value": "085769523286",
+							"type": "text"
+						},
+						{
+							"key": "jenis_kelamin",
+							"value": "pria",
+							"type": "text"
+						}
+					]
+				},
+				"url": "http://localhost:4000/daftar"
+			},
+			"response": []
+		}
+	]
+}
